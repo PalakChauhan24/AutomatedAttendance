@@ -399,37 +399,23 @@ The desktop dashboard provides access to:
 ---
 ### Main Dashboard
 
-
-
 ![Main Dashboard](dashboard.png)
-
 
 ### Student Registration
 
 ![Student registration](registration.png)
 
-```
-
 ### Face Recognition
 
-```text
-<img width="477" height="375" alt="image" src="https://github.com/user-attachments/assets/a87a86ef-a602-41d3-931d-412901ace813" />
-
-```
+![Recognition](camera.png)
 
 ### Attendance Report
 
-```text
-<img width="920" height="516" alt="image" src="https://github.com/user-attachments/assets/2a472dba-88a9-4adb-9412-3df33f544c31" />
-
-```
+![Report](records.png)
 
 ### Analytics
 
-```text
-<img width="913" height="501" alt="image" src="https://github.com/user-attachments/assets/9d01fb13-631f-483d-9b74-e3a95328031f" />
-
-```
+![Analytics](analytics.png)
 
 ---
 
