@@ -397,16 +397,11 @@ The desktop dashboard provides access to:
 - Exit
 
 ---
-
-## 📸 Screenshots
-
-Add your project screenshots here after uploading them to GitHub.
-
 ### Main Dashboard
 
 ```text
-![Main Dashboard](screenshots/dashboard.png)
-```
+<img width="902" height="540" alt="image" src="https://github.com/user-attachments/assets/f3aa6a34-464a-440f-bb20-fc4eccb624ef" />
+
 
 ### Student Registration
 
@@ -417,19 +412,22 @@ Add your project screenshots here after uploading them to GitHub.
 ### Face Recognition
 
 ```text
-![Face Recognition](screenshots/face_recognition.png)
+<img width="477" height="375" alt="image" src="https://github.com/user-attachments/assets/a87a86ef-a602-41d3-931d-412901ace813" />
+
 ```
 
 ### Attendance Report
 
 ```text
-![Attendance Report](screenshots/attendance_report.png)
+<img width="920" height="516" alt="image" src="https://github.com/user-attachments/assets/2a472dba-88a9-4adb-9412-3df33f544c31" />
+
 ```
 
 ### Analytics
 
 ```text
-![Analytics](screenshots/analytics.png)
+<img width="913" height="501" alt="image" src="https://github.com/user-attachments/assets/9d01fb13-631f-483d-9b74-e3a95328031f" />
+
 ```
 
 ---
@@ -450,8 +448,6 @@ __pycache__/
 attendance/*.xlsx
 attendance/*.csv
 ```
-
-If you want to keep sample data in your repository, use anonymized sample records instead of real student information.
 
 ---
 
