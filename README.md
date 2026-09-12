@@ -399,14 +399,15 @@ The desktop dashboard provides access to:
 ---
 ### Main Dashboard
 
-```text
-<img width="902" height="540" alt="image" src="https://github.com/user-attachments/assets/f3aa6a34-464a-440f-bb20-fc4eccb624ef" />
+
+
+![Main Dashboard](dashboard.png)
 
 
 ### Student Registration
 
-```text
-![Student Registration](screenshots/register_student.png)
+![Student registration](registration.png)
+
 ```
 
 ### Face Recognition
